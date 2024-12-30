@@ -1,7 +1,5 @@
 ---
-tags:
-  - гпт
-  - gpt
+tags: гпт, gpt
 ---
 
 > [!tldr]- Vocab Prompt
