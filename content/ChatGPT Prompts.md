@@ -3,9 +3,7 @@ tags: гпт, gpt
 ---
 
 > [!tldr]- Vocab Prompt
-> 
-> ```
-I want you to act as an English Learner's Dictionary. I will give you a list of words and your task will be:
+> I want you to act as an English Learner's Dictionary. I will give you a list of words and your task will be:
 > 
 > 1. Make a clear and succinct definition for each word.
 > 
@@ -22,7 +20,7 @@ I want you to act as an English Learner's Dictionary. I will give you a list of 
 >Act as an English teacher and use lexical approach in your teaching. 
 >Create a word-focused exercises for learning lexical items/collocations/chunks.
 >Create vocabulary quizzes and tests
-> ```
+
 
 > [!tldr]- Digestable summary
 > ```
